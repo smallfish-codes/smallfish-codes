@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @smallfish-codes
-- 👀 I’m interested in Data Science and Web Dev
+- 👀 I’m interested in Creative Coding & Web Dev
 - 🌱 I’m currently learning Python and JavaScript
 - 💞️ I’m looking to collaborate with you
 - 📫 How to reach me...
