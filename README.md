@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @smallfish-codes
+- 👋 Hi, I’m Sarah
 - 👀 I’m interested in Creative Coding & Web Dev
 - 🌱 I’m currently learning Python and JavaScript
-- 💞️ I’m looking to collaborate with you
-- 📫 How to reach me...
+
 
 <!---
 smallfish-codes/smallfish-codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
