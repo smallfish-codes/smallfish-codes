@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sarah
-- 👀 I’m interested in Creative Coding & Web Dev
+- 👀 I’m interested in Creative Coding & Frontend-Web Dev
 - 🌱 I’m currently learning Python and JavaScript
 
 
